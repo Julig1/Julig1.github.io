@@ -20,11 +20,11 @@ Final Grade: *TBD*
 
 **B.Sc. in Physics**, University of Potsdam  
 *10/2020 – 10/2023*  
-Final Grade: **1.81**
+Final Grade: **1.8**
 
 **Abitur**, Universaale Jena  
 *08/2011 – 07/2020*  
-Final Grade: **1.71**
+Final Grade: **1.7**
 
 ---
 
@@ -54,7 +54,7 @@ Final Grade: **1.71**
 - Compared HGPS and 2HGPS catalogs to assess VHE γ-ray source distribution  
 - Applied population synthesis models and corrected observational biases  
 - Investigated detection discrepancies due to instrument sensitivity and selection effects  
-- Grade: **1.51**
+- Grade: **1.5**
 
 ---
 
