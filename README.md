@@ -4,9 +4,7 @@
 
 **Affiliations:**
 - University of Potsdam  
-- Leibniz-Institute for Astrophysics Potsdam (AIP)  
-  Gertrud-Feiertag-Straße 6,  
-  14469 Potsdam, Germany
+- Leibniz-Institute for Astrophysics Potsdam (AIP)
 
 **Online Profiles:**
 - [GitHub](https://github.com/yourusername)
