@@ -92,22 +92,6 @@ Final Grade: **1.7**
 
 ---
 
-## Collaborations
-
-- MARCOT project group  
-- Astrophotonik (innoFSPEC) group at AIP  
-- Stellar Physics and Exoplanets group at AIP
-
----
-
-## Teaching & Outreach
-
-- Regular outreach through “Science Coffee” public events  
-- Participation in EXCHANGE-b and EXCHANGE-c exoplanet networking meetings  
-- DLR-AIP Astrophotonics Networking Event
-
----
-
 ## Conferences, Workshops, and Presentations
 
 **Workshop on Observational Techniques**, University of Potsdam  
@@ -142,29 +126,3 @@ Final Grade: **1.7**
 - **AQ6376 OSA:** Spectral throughput measurements  
 - **FITEL S326 / Vytran Large Diameter Cleaver:** Precision cleaving  
 - **E152 Telescope (Chile):** Remote control and pointing operations
-
----
-
-## Memberships
-
-- German Physical Society (since 2025)  
-- German Astronomical Society (since 2025)  
-- European Astronomical Society (EAS) (since 2025)
-
----
-
-## Languages
-
-- **German:** Native  
-- **English:** C1 – Advanced  
-- **Spanish:** B1 (Reading, Listening), A2 (Writing, Speaking)
-
----
-
-## Interests
-
-- Astronomy, astrophysics, and space exploration  
-- Artificial intelligence in physical sciences  
-- Telescope observation and astrophotography  
-- Board games, storytelling, and Dungeons & Dragons
-
