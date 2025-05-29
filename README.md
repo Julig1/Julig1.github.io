@@ -1,4 +1,4 @@
-# Curriculum Vitae — Julius Göhring
+# Julius Göhring
 
 ## Contact Information
 
