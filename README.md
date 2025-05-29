@@ -7,7 +7,7 @@
 - Leibniz-Institute for Astrophysics Potsdam (AIP)
 
 **Online Profiles:**
-- [GitHub](https://github.com/yourusername)
+- [GitHub](https://github.com/Julig1)
 - [LinkedIn](https://linkedin.com/in/yourusername)
 
 ---
@@ -21,12 +21,7 @@
 
 ---
 
-### [Project Name]
-**Description:** A short explanation of the technical and theoretical foundation behind the project.  
-**Technologies Used:** [e.g., JavaScript, React, Node.js]  
-**Repository:** [https://github.com/yourusername/projectname](https://github.com/yourusername/projectname)
-
-*A full list of repositories is available on my [GitHub profile](https://github.com/yourusername).*
+*A full list of repositories is available on my [GitHub profile](https://github.com/Julig1).*
 
 ---
 
