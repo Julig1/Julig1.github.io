@@ -19,6 +19,11 @@
 **Technologies Used:** [Python, Tkinter]  
 **Repository:** [https://github.com/Julig1/DND-Character-sheet/](https://github.com/Julig1/DND-Character-sheet/)
 
+### [Ant-Colony simulation]
+**Description:** This report describes the development of a simulation of ant colonies. It discusses the key properties required for ants to exhibit swarm behavior as observed in nature. One of the central features explored is the use of pheromones, which are crucial for pathfinding within the simulation. The report also addresses the limitations of the current implementation and outlines potential improvements for future development.
+**Technologies Used:** [C++, SFML]  
+**Repository:** [https://github.com/Julig1/Ant-Colony](https://github.com/Julig1/Ant-Colony)
+
 ---
 
 *A full list of repositories is available on my [GitHub profile](https://github.com/Julig1).*
