@@ -1,16 +1,16 @@
-title: "Personal Projects and Research – Julius Göhring"
-description: "A curated portfolio of software development projects, technical experiments, and research contributions by Julius Göhring."
+title: ["Personal Projects and Research – Julius Göhring"]
+description: ["A curated portfolio of software development projects, technical experiments, and research contributions by Julius Göhring."]
 theme: jekyll-theme-minimal
 
 # Author information (optional)
 author:
-  name: "Julius Göhring"
-  email: "julius_email_here"
+  name: ["Julius Göhring"]
+  email: ["julius_email_here"]
 
 # Social media links (optional)
 social_links:
-  github: https://github.com/Julig1
-  linkedin: https://linkedin.com/in/yourusername
+  github: [https://github.com/Julig1]
+  linkedin: [https://linkedin.com/in/yourusername]
 
 # Build settings
 markdown: kramdown
