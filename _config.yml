@@ -1,3 +1,31 @@
-title: [Personal Projects and Research – Julius Göhring]
-description: [A curated portfolio of software development projects, technical experiments, and research contributions by Julius Göhring.]
+title: "Personal Projects and Research – Julius Göhring"
+description: "A curated portfolio of software development projects, technical experiments, and research contributions by Julius Göhring."
 theme: jekyll-theme-minimal
+
+# Optional settings
+url: "https://Julig1.github.io"  # Replace with your GitHub Pages URL
+baseurl: ""  # Leave empty if the site is hosted at root, otherwise "/repo-name"
+
+# Author information (optional)
+author:
+  name: "Julius Göhring"
+  email: "j.goehring2001@gmail.com"
+
+# Social media links (optional)
+social_links:
+  github: https://github.com/Julig1
+  linkedin: https://linkedin.com/in/yourusername
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Include these directories/files in the site build
+include:
+  - _pages
+  - _projects
+  - assets
+
+# Exclude these from the build (optional)
+exclude:
+  - 
