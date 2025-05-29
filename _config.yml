@@ -1,4 +1,4 @@
-title: "Personal Projects and Research – Julius Göhring"
+ltitle: "Personal Projects and Research – Julius Göhring"
 description: "A curated portfolio of software development projects, technical experiments, and research contributions by Julius Göhring."
 theme: jekyll-theme-minimal
 
@@ -9,7 +9,7 @@ baseurl: ""  # Leave empty if the site is hosted at root, otherwise "/repo-name"
 # Author information (optional)
 author:
   name: "Julius Göhring"
-  email: "j.goehring2001@gmail.com"
+  email: "julius_email_here"
 
 # Social media links (optional)
 social_links:
