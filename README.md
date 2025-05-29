@@ -12,6 +12,25 @@
 
 ---
 
+
+## Selected Projects
+
+### [DND Character Sheet tracker]
+**Description:** This repository contains dnd_tracker.py, a Python-based desktop application designed to support the management of Dungeons & Dragons 5th Edition (D&D 5e) characters. The application is implemented using the Tkinter GUI framework and includes comprehensive modules for character statistics, spellcasting mechanics, inventory tracking, and character metadata. 
+**Technologies Used:** [Python, Tkinter]  
+**Repository:** [https://github.com/Julig1/DND-Character-sheet/](https://github.com/Julig1/DND-Character-sheet/)
+
+---
+
+### [Project Name]
+**Description:** A short explanation of the technical and theoretical foundation behind the project.  
+**Technologies Used:** [e.g., JavaScript, React, Node.js]  
+**Repository:** [https://github.com/yourusername/projectname](https://github.com/yourusername/projectname)
+
+*A full list of repositories is available on my [GitHub profile](https://github.com/yourusername).*
+
+---
+
 ## Education
 
 **M.Sc. in Astrophysics**, University of Potsdam  
