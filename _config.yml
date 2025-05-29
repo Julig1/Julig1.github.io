@@ -11,17 +11,3 @@ author:
 social_links:
   github: [https://github.com/Julig1]
   linkedin: [https://linkedin.com/in/yourusername]
-
-# Build settings
-markdown: kramdown
-highlighter: rouge
-
-# Include these directories/files in the site build
-include:
-  - _pages
-  - _projects
-  - assets
-
-# Exclude these from the build (optional)
-exclude:
-  - 
