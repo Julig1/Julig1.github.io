@@ -16,16 +16,12 @@
 
 ### [DND Character Sheet tracker]
 **Description:** This repository contains dnd_tracker.py, a Python-based desktop application designed to support the management of Dungeons & Dragons 5th Edition (D&D 5e) characters. The application is implemented using the Tkinter GUI framework and includes comprehensive modules for character statistics, spellcasting mechanics, inventory tracking, and character metadata.
-
 **Technologies Used:** [Python, Tkinter]  
-
 **Repository:** [https://github.com/Julig1/DND-Character-sheet/](https://github.com/Julig1/DND-Character-sheet/)
 
 ### [Ant-Colony simulation]
 **Description:** This report describes the development of a simulation of ant colonies. It discusses the key properties required for ants to exhibit swarm behavior as observed in nature. One of the central features explored is the use of pheromones, which are crucial for pathfinding within the simulation. The report also addresses the limitations of the current implementation and outlines potential improvements for future development.
-
 **Technologies Used:** C++, SFML
-
 **Repository:** [https://github.com/Julig1/Ant-Colony](https://github.com/Julig1/Ant-Colony)
 
 ---
