@@ -24,6 +24,11 @@
 **Technologies Used:** C++, SFML\
 **Repository:** [https://github.com/Julig1/Ant-Colony](https://github.com/Julig1/Ant-Colony)
 
+### [SciPaperToSpeech]
+**Description:** SciPaperToSpeech is a Python-based tool that converts LaTeX source code from scientific papers into spoken MP3 files. The program processes LaTeX source code, filters out non-essential elements (such as citations, page numbers, and formatting artifacts), and produces a clean, spoken version of the content using text-to-speech synthesis.\
+**Technologies Used:** Python, gTTs\
+**Repository:** [https://github.com/Julig1/SciPaperToSpeech](https://github.com/Julig1/SciPaperToSpeech)
+
 ---
 
 *A full list of repositories is available on my [GitHub profile](https://github.com/Julig1).*
