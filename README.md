@@ -40,30 +40,7 @@
 
 ---
 
-## Education
-
-**M.Sc. in Astrophysics**, University of Potsdam  
-*10/2023 – Present*  
-Final Grade: *TBD*
-
-**B.Sc. in Physics**, University of Potsdam  
-*10/2020 – 10/2023*  
-Final Grade: **1.8**
-
-**Abitur**, Universaale Jena  
-*08/2011 – 07/2020*  
-Final Grade: **1.7**
-
----
-
 ## Research and Work Experience
-
-### Student Assistant  
-**Leibniz-Institute for Astrophysics Potsdam (AIP), Astrophotonics (innoFSPEC)**  
-*10/2024 – Present*  
-- Fabrication of photonic lanterns in multiple configurations  
-- Characterization and performance analysis of lanterns  
-- Investigated focal ratio degradation
 
 ### Master's Thesis (In Progress)  
 **University of Potsdam / AIP, Stellar Physics and Exoplanets Group**  
@@ -94,24 +71,6 @@ Final Grade: **1.7**
 
 ---
 
-## Instrumentation and Projects
-
-- Photonic lantern fabrication for MARCOT telescope  
-- Statistical and spatial analysis of γ-ray sources from HGPS/HESS  
-- Remote spectroscopic observations with the E152 telescope (Chile)
-
----
-
-## Conferences, Workshops, and Presentations
-
-**Workshop on Observational Techniques**, University of Potsdam  
-*26 Aug – 6 Sep 2024, Ondřejov Observatory, Czech Republic*  
-- Conducted exoplanet detection via radial velocity  
-- Spectral data reduction with IRAF, VIPER, and Python (RadVel)  
-- Managed observational logistics and troubleshooting
-
----
-
 ## Technical Skills
 
 **Programming & Analysis:**  
@@ -126,13 +85,3 @@ Final Grade: **1.7**
 
 **Documentation & Tools:**  
 - LaTeX, LibreOffice, Microsoft Office  
-
----
-
-## Advanced Equipment Experience
-
-- **Vytran GPX-3000:** Fiber cleaving, splicing, connectorization  
-- **IFA-100 Analyzer:** Fiber refractive index and throughput analysis  
-- **AQ6376 OSA:** Spectral throughput measurements  
-- **FITEL S326 / Vytran Large Diameter Cleaver:** Precision cleaving  
-- **E152 Telescope (Chile):** Remote control and pointing operations
