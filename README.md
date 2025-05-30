@@ -14,7 +14,7 @@
 
 ## Selected Projects
 
-### [DND Character Sheet tracker]
+### [DND Character Sheet tracker] - WORK IN PROGRESS
 **Description:** This repository contains dnd_tracker.py, a Python-based desktop application designed to support the management of Dungeons & Dragons 5th Edition (D&D 5e) characters. The application is implemented using the Tkinter GUI framework and includes comprehensive modules for character statistics, spellcasting mechanics, inventory tracking, and character metadata.\
 **Technologies Used:** [Python, Tkinter]\
 **Repository:** [https://github.com/Julig1/DND-Character-sheet/](https://github.com/Julig1/DND-Character-sheet/)
@@ -24,12 +24,12 @@
 **Technologies Used:** [C++, SFML]\
 **Repository:** [https://github.com/Julig1/Ant-Colony](https://github.com/Julig1/Ant-Colony)
 
-### [SciPaperToSpeech]
+### [SciPaperToSpeech] - WORK IN PROGRESS
 **Description:** SciPaperToSpeech is a Python-based tool that converts LaTeX source code from scientific papers into spoken MP3 files. The program processes LaTeX source code, filters out non-essential elements (such as citations, page numbers, and formatting artifacts), and produces a clean, spoken version of the content using text-to-speech synthesis.\
 **Technologies Used:** [Python, gTTs]\
 **Repository:** [https://github.com/Julig1/SciPaperToSpeech](https://github.com/Julig1/SciPaperToSpeech)
 
-### [Ant-Simulation-Optimized]
+### [Ant-Simulation-Optimized] - WORK IN PROGRESS
 **Description:** Ant-Simulation-Optimized is a performance-optimized ant colony simulation built using Pygame and Cython. The simulation models ant behavior, including movement, pheromone trails, food search, and return to the anthill. The tool offers multiple approaches for execution: the default live run in Python, pre-calculated frame-based simulation, and an accelerated version using Cython for enhanced performance, making it suitable for large-scale colony simulations.\
 **Technologies Used:** [Python, Pygame, Cython, Multiprocessing]\
 **Repository:** [https://github.com/Julig1/Ant-Simulation-Optimized](https://github.com/Julig1/Ant-Simulation-Optimized)
