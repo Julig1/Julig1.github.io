@@ -21,12 +21,12 @@
 
 ### [Ant-Colony simulation]
 **Description:** This report describes the development of a simulation of ant colonies. It discusses the key properties required for ants to exhibit swarm behavior as observed in nature. One of the central features explored is the use of pheromones, which are crucial for pathfinding within the simulation. The report also addresses the limitations of the current implementation and outlines potential improvements for future development.\
-**Technologies Used:** C++, SFML\
+**Technologies Used:** [C++, SFML]\
 **Repository:** [https://github.com/Julig1/Ant-Colony](https://github.com/Julig1/Ant-Colony)
 
 ### [SciPaperToSpeech]
 **Description:** SciPaperToSpeech is a Python-based tool that converts LaTeX source code from scientific papers into spoken MP3 files. The program processes LaTeX source code, filters out non-essential elements (such as citations, page numbers, and formatting artifacts), and produces a clean, spoken version of the content using text-to-speech synthesis.\
-**Technologies Used:** Python, gTTs\
+**Technologies Used:** [Python, gTTs]\
 **Repository:** [https://github.com/Julig1/SciPaperToSpeech](https://github.com/Julig1/SciPaperToSpeech)
 
 ---
