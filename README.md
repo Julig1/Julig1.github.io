@@ -31,7 +31,7 @@
 
 ### [Ant-Simulation-Optimized]
 **Description:** Ant-Simulation-Optimized is a performance-optimized ant colony simulation built using Pygame and Cython. The simulation models ant behavior, including movement, pheromone trails, food search, and return to the anthill. The tool offers multiple approaches for execution: the default live run in Python, pre-calculated frame-based simulation, and an accelerated version using Cython for enhanced performance, making it suitable for large-scale colony simulations.\
-**Technologies Used:** [Python, Pygame, Cython, Multiprocessing]
+**Technologies Used:** [Python, Pygame, Cython, Multiprocessing]\
 **Repository:** [https://github.com/Julig1/Ant-Simulation-Optimized](https://github.com/Julig1/Ant-Simulation-Optimized)
 
 ---
