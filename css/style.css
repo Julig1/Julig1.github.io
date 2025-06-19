@@ -115,13 +115,15 @@ html, body {
 
 /* Fix bullet alignment */
 .project-card ul,
-.experience-item ul {
+.experience-item ul 
+.post-preview ul {
   padding-left: 20px;
   margin-top: 10px;
 }
 
 .project-card li,
-.experience-item li {
+.experience-item li 
+.post-preview li {
   margin-bottom: 8px;
   line-height: 1.5;
 }
