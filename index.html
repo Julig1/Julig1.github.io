@@ -1,124 +1,305 @@
+<!-- File: index.html -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Julius Göhring | Portfolio</title>
-  <link rel="stylesheet" href="style.css" />
+  <title>Julius Göhring | Home</title>
+  <link rel="stylesheet" href="css/style.css" />
 </head>
 <body>
-
-  <!-- Header -->
-  <header>
-    <img src="profile.jpg" alt="Portrait of me" style="width:150px; border-radius:50%;">
-    <h1>Julius Göhring</h1>
-    <p>Astrophysics Researcher & Software Developer</p>
+  <header class="site-header">
+    <div class="container">
+      <img src="img/profile.jpg" alt="Portrait of Julius Göhring" class="profile-pic">
+      <h1>Julius Göhring</h1>
+      <p>Astrophysics Researcher &amp; Software Developer</p>
+      <nav class="main-nav">
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="projects.html">Projects</a></li>
+          <li><a href="experience.html">Education &amp; Experience</a></li>
+          <li><a href="blog.html">Blog</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
   </header>
 
-  <!-- Main Content Container -->
-  <div class="container">
-
-    <!-- Contact Info -->
-    <section>
-      <h2>Contact Information</h2>
-      <p><strong>Affiliations:</strong><br>
-        University of Potsdam<br>
-        Leibniz-Institute for Astrophysics Potsdam (AIP)
-      </p>
-      <p><strong>Online Profiles:</strong><br>
-        <a href="https://github.com/Julig1" target="_blank">GitHub</a> |
-        <a href="https://linkedin.com/in/yourusername" target="_blank">LinkedIn</a>
-      </p>
+  <main class="container">
+    <section id="about">
+      <h2>Who I Am</h2>
+      <p>I am a passionate astrophysics researcher specializing in stellar magnetic activity and exoplanet interactions. Based at the University of Potsdam &amp; AIP, I blend scientific inquiry with software development to push the boundaries of stellar astrophysics.</p>
     </section>
 
-    <!-- Projects -->
-    <section>
-      <h2>Selected Projects</h2>
-
-      <div class="project">
-        <h3><a href="https://github.com/Julig1/DND-Character-sheet/">DND Character Sheet Tracker</a> - WORK IN PROGRESS</h3>
-        <p>A Python-based desktop application for managing D&D 5e characters using the Tkinter GUI framework.</p>
-        <p><strong>Technologies:</strong> Python, Tkinter</p>
-      </div>
-
-      <div class="project">
-        <h3><a href="https://github.com/Julig1/Ant-Colony">Ant-Colony Simulation</a></h3>
-        <p>Simulates ant swarm behavior using pheromone-based pathfinding, implemented in C++ and SFML.</p>
-        <p><strong>Technologies:</strong> C++, SFML</p>
-      </div>
-
-      <div class="project">
-        <h3><a href="https://github.com/Julig1/SciPaperToSpeech">SciPaperToSpeech</a> - WORK IN PROGRESS</h3>
-        <p>Converts LaTeX scientific papers into spoken MP3s using Python and Google Text-to-Speech.</p>
-        <p><strong>Technologies:</strong> Python, gTTs</p>
-      </div>
-
-      <div class="project">
-        <h3><a href="https://github.com/Julig1/Ant-Simulation-Optimized">Ant-Simulation-Optimized</a> - WORK IN PROGRESS</h3>
-        <p>High-performance ant simulation with Cython, multiprocessing, and multiple execution modes.</p>
-        <p><strong>Technologies:</strong> Python, Pygame, Cython, Multiprocessing</p>
-      </div>
-
-      <p><em>More on my <a href="https://github.com/Julig1">GitHub profile</a>.</em></p>
-    </section>
-
-    <!-- Experience -->
-    <section>
-      <h2>Research and Work Experience</h2>
-
-      <div class="project">
-        <h3>Master’s Thesis (In Progress)</h3>
-        <p><strong>University of Potsdam / AIP – Stellar Physics and Exoplanets Group</strong><br>
-        <em>10/2024 – Present</em><br>
-        <strong>Title:</strong> Planetary Engulfment and its Impact on Stellar Magnetic Activity</p>
-        <ul>
-          <li>Studying effects of planetary engulfment on stellar magnetism using binary stars</li>
-          <li>Analysis of stellar spectra for rotation and magnetic activity (H-α)</li>
-          <li>Simulated engulfment scenarios using Python</li>
-        </ul>
-      </div>
-
-      <div class="project">
-        <h3>Bachelor’s Thesis</h3>
-        <p><strong>University of Potsdam – Experimental Astroparticle Physics Group</strong><br>
-        <em>03/2023 – 10/2023</em><br>
-        <strong>Title:</strong> Population Synthesis of Galactic γ-Ray Sources<br>
-        <strong>Grade:</strong> 1.5</p>
-        <ul>
-          <li>Compared HGPS and 2HGPS catalogs to assess VHE γ-ray source distribution</li>
-          <li>Applied population synthesis models with bias correction</li>
-          <li>Investigated detection discrepancies due to instrumentation and selection effects</li>
-        </ul>
-      </div>
-    </section>
-
-    <!-- Research Areas -->
-    <section>
+    <section id="research-areas">
       <h2>Current Research Areas</h2>
       <ul>
         <li>Stellar magnetic activity and planetary engulfment</li>
         <li>Exoplanet-star magnetic interactions in wide binary systems</li>
-        <li>Fabrication and testing of astrophotonic components (e.g., photonic lanterns)</li>
+        <li>Astrophotonic component fabrication &amp; testing (e.g., photonic lanterns)</li>
       </ul>
     </section>
+  </main>
 
-    <!-- Skills -->
-    <section>
-      <h2>Technical Skills</h2>
-      <ul>
-        <li><strong>Programming & Analysis:</strong> Python (Astropy, NumPy, SciPy, IRAF), C++, MATLAB</li>
-        <li><strong>Data Handling:</strong> FITS processing, DS9, IRAF</li>
-        <li><strong>Tools:</strong> LaTeX, LibreOffice, Microsoft Office</li>
-        <li><strong>Operating Systems:</strong> Windows, Linux, Unix</li>
-      </ul>
-    </section>
-
-  </div>
-
-  <!-- Footer -->
-  <footer>
-    &copy; 2025 Julius Göhring | All rights reserved.
+  <footer id="contact">
+    <div class="container">
+      <h2>Contact Me</h2>
+      <p><strong>Affiliations:</strong><br>
+        University of Potsdam<br>
+        Leibniz-Institute for Astrophysics Potsdam (AIP)
+      </p>
+      <p><strong>Email:</strong> <a href="mailto:j.goehring@example.com">j.göhring@example.com</a></p>
+      <p><strong>Online Profiles:</strong><br>
+        <a href="https://github.com/Julig1" target="_blank">GitHub</a> |
+        <a href="https://linkedin.com/in/yourusername" target="_blank">LinkedIn</a>
+      </p>
+      <p>&copy; 2025 Julius Göhring | All rights reserved.</p>
+    </div>
   </footer>
 
 </body>
 </html>
+
+
+<!-- File: projects.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Julius Göhring | Projects</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <h1>Projects</h1>
+      <nav class="sub-nav">
+        <a href="index.html">Home</a> |
+        <a href="experience.html">Education & Experience</a> |
+        <a href="blog.html">Blog</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <!-- Repeat project cards -->
+    <section class="project-list">
+      <article class="project-card">
+        <h3><a href="https://github.com/Julig1/DND-Character-sheet/" target="_blank">DND Character Sheet Tracker</a> <span class="status">(WIP)</span></h3>
+        <p>Python desktop app for managing D&D 5e characters using Tkinter.</p>
+        <p><strong>Technologies:</strong> Python, Tkinter</p>
+      </article>
+
+      <article class="project-card">
+        <h3><a href="https://github.com/Julig1/Ant-Colony" target="_blank">Ant-Colony Simulation</a></h3>
+        <p>Simulates ant swarm behavior using pheromone-based pathfinding, implemented in C++ and SFML.</p>
+        <p><strong>Technologies:</strong> C++, SFML</p>
+      </article>
+
+      <article class="project-card">
+        <h3><a href="https://github.com/Julig1/SciPaperToSpeech" target="_blank">SciPaperToSpeech</a> <span class="status">(WIP)</span></h3>
+        <p>Converts LaTeX scientific papers into spoken MP3s using Python and Google Text-to-Speech.</p>
+        <p><strong>Technologies:</strong> Python, gTTs</p>
+      </article>
+
+      <article class="project-card">
+        <h3><a href="https://github.com/Julig1/Ant-Simulation-Optimized" target="_blank">Ant-Simulation-Optimized</a> <span class="status">(WIP)</span></h3>
+        <p>High-performance ant simulation with Cython, multiprocessing, and multiple execution modes.</p>
+        <p><strong>Technologies:</strong> Python, Pygame, Cython, Multiprocessing</p>
+      </article>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <a href="index.html">← Back to Home</a>
+    </div>
+  </footer>
+</body>
+</html>
+
+
+<!-- File: experience.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Julius Göhring | Education & Experience</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <h1>Education & Experience</h1>
+      <nav class="sub-nav">
+        <a href="index.html">Home</a> |
+        <a href="projects.html">Projects</a> |
+        <a href="blog.html">Blog</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="experience-item">
+      <h2>Master’s Thesis (In Progress)</h2>
+      <h3>University of Potsdam / AIP – Stellar Physics & Exoplanets Group</h3>
+      <time datetime="2024-10">Oct 2024 – Present</time>
+      <h4>Title: Planetary Engulfment and its Impact on Stellar Magnetic Activity</h4>
+      <ul>
+        <li>Studying effects of planetary engulfment on stellar magnetism using binary stars</li>
+        <li>Analysis of stellar spectra for rotation and magnetic activity (H-α)</li>
+        <li>Simulated engulfment scenarios using Python</li>
+      </ul>
+    </section>
+
+    <section class="experience-item">
+      <h2>Bachelor’s Thesis</h2>
+      <h3>University of Potsdam – Experimental Astroparticle Physics Group</h3>
+      <time datetime="2023-03">Mar 2023 – Oct 2023</time>
+      <h4>Title: Population Synthesis of Galactic γ-Ray Sources</h4>
+      <p><strong>Grade:</strong> 1.5</p>
+      <ul>
+        <li>Compared HGPS and 2HGPS catalogs to assess VHE γ-ray source distribution</li>
+        <li>Applied population synthesis models with bias correction</li>
+        <li>Investigated detection discrepancies due to instrumentation and selection effects</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <a href="index.html">← Back to Home</a>
+    </div>
+  </footer>
+</body>
+</html>
+
+
+<!-- File: blog.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Julius Göhring | Blog</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <h1>Blog</h1>
+      <nav class="sub-nav">
+        <a href="index.html">Home</a> |
+        <a href="projects.html">Projects</a> |
+        <a href="experience.html">Education & Experience</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="post-preview">
+      <h2>Conferences & Talks</h2>
+      <article>
+        <h3>Summer School on Exoplanetary Physics 2025</h3>
+        <time datetime="2025-06-10">June 10, 2025</time>
+        <p>Attended a deep-dive workshop on exoplanet atmospheric modeling at the University of Cambridge.</p>
+      </article>
+      <!-- Additional posts go here -->
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <a href="index.html">← Back to Home</a>
+    </div>
+  </footer>
+</body>
+</html>
+
+
+/* File: css/style.css */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  color: #333;
+  background: #f7f7f7;
+}
+.container {
+  width: 90%;
+  max-width: 1000px;
+  margin: auto;
+  padding: 20px 0;
+}
+.site-header {
+  background: #004b8d;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+}
+.profile-pic {
+  width: 150px;
+  border-radius: 50%;
+  border: 4px solid #fff;
+}
+.main-nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin-top: 15px;
+}
+.main-nav a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+.sub-nav {
+  text-align: center;
+  margin: 15px 0;
+}
+.sub-nav a {
+  color: #004b8d;
+  text-decoration: none;
+  margin: 0 10px;
+  font-weight: bold;
+}
+.project-card, .experience-item, .post-preview article {
+  background: #fff;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+.status {
+  font-size: 0.9em;
+  color: #888;
+  font-style: italic;
+}
+.site-footer {
+  background: #eee;
+  text-align: center;
+  padding: 10px 0;
+  margin-top: 20px;
+}
+.site-footer a {
+  color: #004b8d;
+  text-decoration: none;
+}
+footer#contact {
+  background: #004b8d;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+  margin-top: 20px;
+}
+footer#contact a {
+  color: #ffd700;
+  text-decoration: none;
+}
