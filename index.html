@@ -8,22 +8,8 @@
   <link rel="stylesheet" href="css/style.css" />
 </head>
 <body>
-  <header class="site-header">
-    <div class="container">
-      <img src="images/profile.jpg" alt="Portrait of Julius Göhring" class="profile-pic">
-      <h1>Julius Göhring</h1>
-      <p>Astrophysics Researcher &amp; Software Developer</p>
-      <nav class="main-nav">
-        <ul>
-          <li><a href="index.html">Home</a></li>
-          <li><a href="projects.html">Projects</a></li>
-          <li><a href="experience.html">Education &amp; Experience</a></li>
-          <li><a href="blog.html">Blog</a></li>
-          <li><a href="#contact.html">Contact</a></li>
-        </ul>
-      </nav>
-    </div>
-  </header>
+  <div id="header-placeholder"></div>
+
 
   <main class="container">
     <section id="about">
@@ -56,6 +42,12 @@
       <p>&copy; 2025 Julius Göhring | All rights reserved.</p>
     </div>
   </footer>
-
+<script>
+  fetch("header.html")
+    .then(response => response.text())
+    .then(data => {
+      document.getElementById("header-placeholder").innerHTML = data;
+    });
+</script>
 </body>
 </html>
